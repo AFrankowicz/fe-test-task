@@ -1,3 +1,6 @@
+# Frontend Coding Challenge
+We would like you to build a small web application for a weather dashboard using AngularJS. Your webapp should hook into the public APIs provided below. These APIs are built over services like Forecast.io, WeatherBug, WeatherUnderground, etc. for weather related data and allow you to display the current and 7-day weather forecast from different sources. Please feel free to pick other technologies as you see fit. You have complete creative control over how the dashboard looks and functions.
+
 # API
 Domain is [http://chathamweatherapi.azurewebsites.net/](http://chathamweatherapi.azurewebsites.net/)
 ## Cities API
