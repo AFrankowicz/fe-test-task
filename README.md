@@ -2,7 +2,7 @@
 We would like you to build a small web application for a weather dashboard using AngularJS. Your webapp should hook into the public APIs provided below. These APIs are built over services like Forecast.io, WeatherBug, WeatherUnderground, etc. for weather related data and allow you to display the current and 7-day weather forecast from different sources. Please feel free to pick other technologies as you see fit. You have complete creative control over how the dashboard looks and functions.
 
 # API
-Domain is [http://178.79.140.126/](http://178.79.140.126/)
+Domain is [http://codingchallenge.chathamfinancial.com/](http://codingchallenge.chathamfinancial.com/)
 ## Cities API
 API was built on top of Google API. Documentation and the examples of response can be found [here](https://developers.google.com/places/web-service/autocomplete?hl=en). 
 
